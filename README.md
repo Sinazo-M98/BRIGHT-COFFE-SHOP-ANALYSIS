@@ -1,2 +1,2 @@
-# BRIGHT-COFFE-SHOP-ANALYSIS
+# BRIGHT-COFFEE-SHOP-ANALYSIS
 Analysis on Bright Coffee shop
